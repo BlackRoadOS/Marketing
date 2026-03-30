@@ -1,0 +1,17 @@
+# BlackRoad OS Campaign — Image Prompts
+# Run: python3 ~/Marketing/tools/generate.py --batch ~/Marketing/assets/prompts.txt --size 1080x1080
+
+# Hero — The Glowing Highway
+Dark cinematic wide shot of a glowing highway stretching into the distance at night. The road surface glows with a smooth gradient from warm ember orange through hot pink magenta violet to electric cyan. Deep black sky with faint stars. Moody inspiring photorealistic ultra high quality
+
+# Brand Mascot — Robot on the Road
+A small friendly white robot with cyan and magenta accent lights driving down a glowing gradient highway at night. The road glows orange to cyan. Dark cyberpunk cityscape in background with purple window lights. Cinematic slightly stylized high quality
+
+# Founder Story — Raspberry Pi Lab
+Close-up of a cluster of 5 Raspberry Pi computers stacked on a desk with LED lights glowing blue and green. Ethernet cables connected. Dimly lit room with monitor glow in background. Cyberpunk aesthetic warm ambient lighting shallow depth of field
+
+# Product Shot — Desktop OS
+Illustration of a sleek dark operating system desktop in a browser. Multiple overlapping app windows showing a code editor, chat with AI agents, creative studio. Thin gradient stripe at top in orange pink magenta violet blue cyan. Dark UI white text clean modern
+
+# Abstract — Digital Sovereignty
+Abstract art of a glowing network of connected nodes forming a road shape. Each node pulses with a different color from ember orange to cyan. Black background with subtle particle effects. Represents digital sovereignty and connection. Minimal elegant
