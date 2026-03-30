@@ -10,7 +10,7 @@ All 17 BlackRoad OS products with final URLs.
 | 4 | OneWay | oneway.blackroad.io | Permanent one-way data export with full ownership |
 | 5 | RoadSide | roadside.blackroad.io | Intelligent onboarding agent that sets everything up |
 | 6 | RoadView | roadview.blackroad.io | Semantic search with cryptographic verification |
-| 7 | RoadTrip | roadtrip.blackroad.io | Persistent group chat with 18 AI agents that never forget |
+| 7 | RoadTrip | roadtrip.blackroad.io | Persistent group chat with 27 AI agents that never forget |
 | 8 | BackRoad | backroad.blackroad.io | Universal social automation on autopilot |
 | 9 | RoadWork | roadwork.blackroad.io | Business automation suite for operations |
 | 10 | Roadie | roadie.blackroad.io | Safe, Socratic AI tutor for education |

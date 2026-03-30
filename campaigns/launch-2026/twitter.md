@@ -24,7 +24,7 @@ The fix: BlackRoad OS. A browser-based desktop where 17 products share one memor
 The products:
 
 RoadCode — code editor + Claude
-RoadTrip — 18 AI agents in persistent chat
+RoadTrip — 27 AI agents in persistent chat
 Roadie — AI tutor that never forgets
 BackRoad — social automation
 RoadView — verified search

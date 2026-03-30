@@ -13,7 +13,7 @@ Today, BlackRoad OS runs 17 integrated products in a single browser tab:
 - A social automation suite that posts while you sleep (BackRoad)
 - A blockchain layer that verifies every action (RoadChain)
 - A token that rewards you for actually using the platform (RoadCoin)
-- Persistent group chat with 18 AI agents that never forget a word (RoadTrip)
+- Persistent group chat with 27 AI agents across 7 divisions that never forget a word (RoadTrip)
 - A credential vault tied to your devices, not a corporation (CarKeys)
 - And 10 more — all sharing live context through one memory system
 

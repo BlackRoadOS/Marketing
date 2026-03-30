@@ -10,7 +10,7 @@ You open a single browser tab and an entire operating system loads — windows, 
 
 Your AI tutor picks up exactly where your last conversation ended three weeks ago. Your code editor already knows the project you're working on. Your social media manager has been posting on autopilot while you slept. Your credential vault is locked with keys only your devices hold.
 
-Seventeen products. One highway. Every mile cryptographically verified. Every action earns you RoadCoin. Every agent remembers your name.
+Seventeen products. 27 agents. One highway. Every mile cryptographically verified. Every action earns you RoadCoin. Every agent remembers your name.
 
 This is BlackRoad OS — sovereign software built on Raspberry Pis in a living room by a founder who decided renting her digital life from strangers stopped making sense.
 
